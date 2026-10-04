@@ -1,12 +1,15 @@
 # Mziki · Movie · Game
 
-Native **Android (Kotlin)** app with 3 tabs:
+Native **Android (Java)** app with 3 tabs:
 
 | Tab | Data Source |
 |-----|-------------|
 | **Mziki** | iTunes Search API (Afrobeats) |
 | **Movie** | TVMaze API |
 | **Game** | FreeToGame API |
+
+## Language
+**100% Java** (no Kotlin)
 
 ## Build APK (GitHub Actions)
 
@@ -23,7 +26,7 @@ Native **Android (Kotlin)** app with 3 tabs:
 ```
 
 ## Tech
-- Kotlin
+- Java 17
 - Material Design 3 (Bottom Navigation)
 - OkHttp + org.json
 - Glide (images)
