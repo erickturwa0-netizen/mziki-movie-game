@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MzikiMovieGame" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#6C63FF</item>
+        <item name="colorPrimaryContainer">#6C63FF</item>
+        <item name="android:statusBarColor">#1A1A2E</item>
+        <item name="android:navigationBarColor">#0F0F1A</item>
+        <item name="android:windowBackground">#1A1A2E</item>
+    </style>
+</resources>
